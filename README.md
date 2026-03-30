@@ -28,14 +28,3 @@ Chào mừng bạn đến với kho lưu trữ thông tin về **Xổ Số Nhanh
   * **Email hỗ trợ:** contact@xosonhanh.vn
   * **Chủ đề:** Kết quả xổ số, Tường thuật trực tiếp KQXS, Soi cầu miền Bắc.
 
-## 📈 Tối ưu SEO
-
-Nội dung này được thiết kế để hỗ trợ Backlink Entity cho website **xosonhanh.vn**, giúp bộ máy tìm kiếm của Google hiểu rõ hơn về lĩnh vực và sự uy tín của thương hiệu trên cộng đồng Developer (GitHub).
-
------
-
-*© 2026 Xosonhanh.vn - Hệ thống tường thuật kết quả xổ số hàng đầu Việt Nam.*
-
------
-
-**Bạn có muốn tôi hỗ trợ tạo thêm nội dung mô tả Profile cho tài khoản GitHub này để đồng bộ bộ nhận diện thương hiệu (Entity) không?**
